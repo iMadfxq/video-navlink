@@ -11,6 +11,11 @@ nav {
   color: rgb(13, 207, 13)
 }
 
+.grape {
+  color: purple;
+  font-size: 50px;
+}
+
 a {
   font-size: 22px;
   margin: 20px;
